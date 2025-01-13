@@ -172,10 +172,4 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 Feel free to explore and customize the **Health Monitoring System** for more personalized health assessments! 🩺💡
