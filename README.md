@@ -1,5 +1,5 @@
 
-# 🏥 Health Monitoring System with Fuzzy Logic 🧠
+# Health Monitoring System with Fuzzy Logic
 
 The **Health Monitoring System** is a cross-platform application utilizing Python, Go, and Rust for real-time health assessment and insights. It evaluates a patient's health based on vital signs such as body temperature, pulse rate, and SpO₂ level using fuzzy logic, and provides health suggestions powered by either OpenAI or Google GenAI.
 ![Screenshot 2024-11-10 030921](https://github.com/user-attachments/assets/ffdd1e64-5c23-430c-85ab-afa2fb0bafa2)
@@ -147,26 +147,7 @@ health-monitoring-system/
    - **Inputs**: Body Temp: 40°C, Pulse: 48 BPM, SpO₂: 84%
    - **Result**: Very high severity, seek immediate medical attention.
 
----
 
-## 🔮 Future Enhancements
-
-Potential future improvements:
-
-- **Historical Data Logging** 📜: Save and review past health assessments.
-- **Additional Rules & Customizations** ⚙️: Enhance rule complexity for nuanced assessments.
-- **Web & Mobile Versions** 📱: Expand accessibility beyond desktop environments.
-- **Multi-Language Support** 🌍: Offer UI translations for non-English users.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. **Fork** the repository.
-2. **Create** a new branch (e.g., `feature-branch`).
-3. **Commit** your changes.
 4. **Push** the branch.
 5. **Open** a Pull Request.
 
